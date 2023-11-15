@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Nelas",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-11-15T03:32:15.561Z",
+      "notes": "Nelas ne",
+      "position": {
+        "lat": "40.56389453066509",
+        "lng": "-7.866210937500001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Bismark",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-11-15T03:44:44.574Z",
+      "notes": "???",
+      "position": {
+        "lat": "52.65639394198803",
+        "lng": "11.513671875000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "La Buxerette",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-15T03:46:43.393Z",
+      "notes": "acaca",
+      "position": {
+        "lat": "46.49839225859763",
+        "lng": "1.77978515625"
+      },
+      "id": 98443200
     }
   ]
 }
